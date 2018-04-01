@@ -1,0 +1,14 @@
+﻿  main.cpp
+G:\Study\codes\reconstruction\elas\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+G:\Study\codes\reconstruction\elas\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+G:\Study\codes\reconstruction\elas\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+G:\Study\codes\reconstruction\elas\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+main.cpp(440): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(457): warning C4305: “初始化”: 从“double”到“float”截断
+main.cpp(563): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  88 of 1275 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  reconstruction.vcxproj -> G:\Study\codes\reconstruction\x64\Release\reconstruction.exe
