@@ -18,9 +18,9 @@ given two images to compute 3d point cloud just like stereo reconstruction
 * 输出为石头的高度，石头在地面投影的内外包围框
 ***********************************************/
 
-关键函数 **getPointCloud** 的参数详解
-
 ***
+
+关键函数 **getPointCloud** 的参数详解
 
 输入两张图像得到石头的点云及相关信息
 
