@@ -5,7 +5,6 @@ given two images to compute 3d point cloud just like stereo reconstruction
 * 本程序实现单目相机在已知轨迹下的三维重建
 *
 *
-*
 * 传入两张单目图像:ref, curr
 *
 * 传入已知pose求出相对RT: T_r_w（ref_pose: world relative to reference camera）, T_c_w (curr_pose: world relative to current camera).
@@ -20,6 +19,8 @@ given two images to compute 3d point cloud just like stereo reconstruction
 ***********************************************/
 
 关键函数 **getPointCloud** 的参数详解
+
+***
 
 输入两张图像得到石头的点云及相关信息
 
