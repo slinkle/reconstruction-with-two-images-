@@ -7,7 +7,7 @@ given two images to compute 3d point cloud just like stereo reconstruction
 *
 * 传入两张单目图像:ref, curr
 *
-* 传入已知pose求出相对RT: T_r_w（ref_pose: world relative to reference camera）, T_c_w (curr_pose: world relative to current camera).
+* 传入相对位姿:T_r_c 第二张相对于第一张的位姿
 *
 * 传入相机内参:intrinsics.yml
 *
